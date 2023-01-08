@@ -1,0 +1,19 @@
+PS C:\Users\with_\OneDrive\바탕 화면\open_ai_codex> node -v
+v18.12.1
+PS C:\Users\with_\OneDrive\바탕 화면\open_ai_codex> npm create vite@latest client --template vanilla
+Need to install the following packages:
+  create-vite@4.0.0
+Ok to proceed? (y) y
+√ Select a framework: » Vanilla
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\with_\OneDrive\바탕 화면\open_ai_codex\client...
+
+Done. Now run:
+
+  cd client
+  npm install
+  npm run dev
+
+PS C:\Users\with_\OneDrive\바탕 화면\open_ai_codex> 
+PS C:\Users\with_\OneDrive\바탕 화면\open_ai_codex>
